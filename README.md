@@ -4,7 +4,7 @@ I focus on Backend development **most, but** currently I'm learnig Frontend deve
   
 If you are interested in what I'm doing check out my [Github Page](https://veenixdev.github.io) (Note: The Site is currently under development)
 
-[![](https://i.redd.it/ubpf3vih88i41.jpg)]()
+[![](https://avatars.githubusercontent.com/u/38364853?v=4)](https://veenixdev.github.io)
 
 <!---
 VeenixDev/VeenixDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
